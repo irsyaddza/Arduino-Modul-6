@@ -53,18 +53,6 @@
 - Kembali ke Mode 1
 - Siap untuk sesi perekaman suhu baru
 
-## 📊 Konfigurasi Pin
-
-| Komponen  | Nomor Pin |
-|-----------|-----------|
-| LM35      | A0        |
-| LCD (RS)  | 12        |
-| LCD (EN)  | 11        |
-| Tombol    | 2         |
-| Buzzer    | 8         |
-| LED       | 9         |
-| 4N35      | 7         |
-
 ## 🔍 Cara Kerja
 1. **Kasus 1:** 
    - Tekan tombol pertama kali untuk merekam data suhu
